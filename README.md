@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning computer science engineering degree
 - 💞️ I’m looking to collaborate on interns
-- 📫 How to reach me message me through linkedin
+- 📫 reach me message me through linkedin
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
