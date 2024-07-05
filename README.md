@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhiram070
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science engineering degree
 - 💞️ I’m looking to collaborate on interns
 - 📫 reach me message me through linkedin
